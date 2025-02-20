@@ -94,4 +94,4 @@ jobs:
          context: ./
          file: ./Dockerfile
          push: true
-         tags: us-east1-docker.pkg.dev/projects/serious-mile-451521-q2/locations/us-east1/repositories/docker-repo
+         tags: us-east1-docker.pkg.dev/serious-mile-451521-q2/my-repo/app
